@@ -12,6 +12,8 @@ This is a static academic homepage. It requires no package installation or build
 
 Replace `Shang-Xu-CV.pdf` to update the CV. Replace `shang-xu.jpg` to update the photo, keeping the filenames unchanged.
 
+The revised geometric-attention paper is hosted directly as `Geometric-State-Space-revised.pdf`. Its title and **Revised PDF** links open this file; the separate arXiv link remains available. Replace this PDF to publish future revisions without changing the links. The November 17, 2026 homepage update uses the 25-page manuscript *Geometric State Space, Memory Representation and Architectures* by Shang Xu and Pengcheng Wang, while the corresponding arXiv replacement is processing.
+
 The photo and CV were copied from Shang Xu's existing public website, https://www.shang-xu.com/, on November 17, 2026. The existing CV is reproduced unchanged. The paper list additionally includes the October 2026 geometric-attention preprint verified on arXiv. Contact details and office hours are carried over from the existing homepage, public CV, and GitHub profile.
 
 ## Hosting
